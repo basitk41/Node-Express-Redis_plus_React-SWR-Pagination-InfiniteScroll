@@ -1,10 +1,2 @@
-# OTP Generator
-Node/Express server generating OTP
-## Setup
-clone repo <br />
-open terminal on root of repo<br />
-run "yarn" if using yarn else "npm install"<br />
-"npm start" to run the server.
-
-## details
-All details about APIs are in postman collection
+# Node-Express-Redis_plus_React-SWR-Pagination-InfiniteScroll
+Node/Express Server with Redis/Mysql/Sequelize Configuration, server side pagination. React with SWR, pagination and infinite scroll.
